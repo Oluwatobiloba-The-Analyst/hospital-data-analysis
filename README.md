@@ -121,14 +121,14 @@ Stable patients made up 39.94% of the total patient and accounted for 28.78% of 
 Readmitted patients which was only 264 patients (26.83%) contributed to nearly **44% (3.60 million) of costs**, with a slightly longer average length of stay of 39 vs. 37 days for non readmitted patients. These cases reflect operational inefficiencies and potential issues with discharge planning or post-care/treatment monitoring and follow-up. It also shows higher resource usage and strain on hospital budgets and capacity, and this suggest a need for better post-discharge care.  
 
 3. 👵 **Age Patterns Reveal Risk Profiles**  
-    👵 Older patients (70+) were primarily associated with **high-cost conditions** like **Heart Attack, and Stroke**, which were linked to longer stays and more expensive treatments. Indicating the need for senior-specific care and prevention strategies. 
+👵 Older patients (70+) were primarily associated with **high-cost conditions** like **Heart Attack, and Stroke**, which were linked to longer stays and more expensive treatments. Indicating the need for senior-specific care and prevention strategies. 
  - Conditions like **allergic reactions** and **fractured arm and** were concentrated among younger patients with shorter stays and lower costs. 
 
 4. 💉 **Chronic and Critical Conditions Dominate Costs**  
 Conditions like **Cancer**, **Prostate Cancer**, and **Heart Attack** were the top 3 cost drivers,  **Cancer** led the chart with $1.65M, followed by **Prostate Cancer (1.3M)** and **Heart Attack* (1.2M)*. These three conditions made up the majority of hospital spending despite similar patient volumes to other conditions.
 
 5.🩺 **High-Cost Procedures Demand Scrutiny**  
-   Among procedures Surgery & Chemotherapy (1.65M) and Radiation Theraphy (1.30M) emerged as the top cost centers, and the most resource-intensive procedures, drawing attention to their frequency, efficiency and clinical necessity. These procedures consumed large portions of the hospital’s budget. In contrast, treatments like **Epinephrine Injection (7k), X-Ray and Splint (33k), antibiotics and Rest (52k) had minimal impact on the overall hospital’s budget.
+Among procedures Surgery & Chemotherapy (1.65M) and Radiation Theraphy (1.30M) emerged as the top cost centers, and the most resource-intensive procedures, drawing attention to their frequency, efficiency and clinical necessity. These procedures consumed large portions of the hospital’s budget. In contrast, treatments like **Epinephrine Injection (7k), X-Ray and Splint (33k), antibiotics and Rest (52k) had minimal impact on the overall hospital’s budget.
 
 
 6.😊 **Patient Satisfaction Trends**  
